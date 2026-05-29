@@ -21,3 +21,4 @@ This repository contains scripts practicing I/O redirections, pipelines, and fil
 * **13-unique**: A script that takes a list of words as input and prints only sorted words that appear exactly once.
 * **14-findthatword**: A script that displays lines from /etc/passwd containing the pattern "root".
 * **15-countthatword**: A script that displays the number of lines containing the pattern "bin" in the /etc/passwd file.
+* **16-whatsnext**: A script that displays lines containing the pattern "root" and 3 lines after them from /etc/passwd.
