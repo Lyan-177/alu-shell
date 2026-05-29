@@ -24,3 +24,4 @@ This repository contains scripts practicing I/O redirections, pipelines, and fil
 * **16-whatsnext**: A script that displays lines containing the pattern "root" and 3 lines after them from /etc/passwd.
 * **17-hidethisword**: A script that displays all lines in /etc/passwd that do not contain the pattern "bin".
 * **18-letteronly**: A script that displays all lines of the file /etc/ssh/sshd_config starting with a letter.
+* **19-AZ**: A script that replaces all characters A and c from input to Z and e respectively.
