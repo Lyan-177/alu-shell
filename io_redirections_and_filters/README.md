@@ -17,3 +17,4 @@ This repository contains scripts practicing I/O redirections, pipelines, and fil
 * **9-duplicate_last_line**: A script that duplicates the last line of the file iacta in the working directory.
 * **10-no_more_js**: A script that deletes all regular files with a .js extension in the current directory and its subfolders.
 * **11-directories**: A script that counts the number of directories and sub-directories in the current directory, excluding current and parent directories.
+* **12-newest_files**: A script that displays the 10 newest files in the current directory, sorted from newest to oldest.
