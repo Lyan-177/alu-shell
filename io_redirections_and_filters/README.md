@@ -28,3 +28,4 @@ This repository contains scripts practicing I/O redirections, pipelines, and fil
 * **20-hiago**: A script that removes all letters c and C from the input stream.
 * **21-reverse**: A script that reverses its input stream text characters.
 * **22-users_and_homes**: A script that displays all users and their home directories from /etc/passwd, sorted by users.
+* **23-empty_casks**: A script that finds all empty files and directories in the working directory tree structure.
