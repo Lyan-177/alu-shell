@@ -19,3 +19,4 @@ This repository contains scripts practicing shell initialization files, environm
 * **12-combinations**: A script that prints all two-letter combinations from aa to zz except oo.
 * **13-print_float**: A script that prints the value stored in NUM with exactly two decimal places.
 * **14-decimal_to_hexadecimal**: A script that converts a base 10 value in DECIMAL to lowercase base 16 hexadecimal.
+* **15-rot13**: A script that encodes and decodes text using rot13 encryption.
