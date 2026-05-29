@@ -12,3 +12,5 @@ This repository contains scripts practicing I/O redirections, pipelines, and fil
 * **5-firstlines**: A script that displays the first 10 lines of /etc/passwd.
 * **6-third_line**: A script that displays the third line of the file iacta without using sed.
 * **7-file**: A script that creates a file with a complex name containing special characters.
+* **8-cwd_state**: A script that writes the result of the command ls -la into the file ls_cwd_content, overwriting it if it exists.
+
