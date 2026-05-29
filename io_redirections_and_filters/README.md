@@ -19,3 +19,4 @@ This repository contains scripts practicing I/O redirections, pipelines, and fil
 * **11-directories**: A script that counts the number of directories and sub-directories in the current directory, excluding current and parent directories.
 * **12-newest_files**: A script that displays the 10 newest files in the current directory, sorted from newest to oldest.
 * **13-unique**: A script that takes a list of words as input and prints only sorted words that appear exactly once.
+* **14-findthatword**: A script that displays lines from /etc/passwd containing the pattern "root".
