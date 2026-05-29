@@ -27,3 +27,4 @@ This repository contains scripts practicing I/O redirections, pipelines, and fil
 * **19-AZ**: A script that replaces all characters A and c from input to Z and e respectively.
 * **20-hiago**: A script that removes all letters c and C from the input stream.
 * **21-reverse**: A script that reverses its input stream text characters.
+* **22-users_and_homes**: A script that displays all users and their home directories from /etc/passwd, sorted by users.
