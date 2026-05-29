@@ -45,3 +45,5 @@ README
 * **13-change_group**: A script that changes the group owner to school for the file hello.
 * **14-change_owner_and_group**: A script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 * **15-symbolic_link_permissions**: A script that changes the owner and group owner of the symbolic link _hello to vincent and staff.
+* **16-if_only**: A script that changes the owner of the file hello to vincent only if it is currently owned by guillaume.
+* **16-if_only**: A script that changes the owner of the file hello to vincent only if it is currently owned by guillaume.
