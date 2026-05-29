@@ -14,3 +14,4 @@ This repository contains scripts practicing I/O redirections, pipelines, and fil
 * **7-file**: A script that creates a file with a complex name containing special characters.
 * **8-cwd_state**: A script that writes the result of the command ls -la into the file ls_cwd_content, overwriting it if it exists.
 
+* **9-duplicate_last_line**: A script that duplicates the last line of the file iacta in the working directory.
