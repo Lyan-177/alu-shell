@@ -41,3 +41,4 @@ README
 * **9-John_Doe**: A script that sets the permissions of the file hello to owner read/write/execute, group read/execute, and others write/execute.
 * **10-mirror_permissions**: A script that sets the mode of the file hello to match the mode of the file olleh.
 * **11-directories_permissions**: A script that adds execute permission to all subdirectories of the current directory for owner, group, and others.
+* **12-directory_permissions**: A script that creates a directory called my_dir with permissions 751 in the working directory.
