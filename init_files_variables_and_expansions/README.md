@@ -21,3 +21,4 @@ This repository contains scripts practicing shell initialization files, environm
 * **14-decimal_to_hexadecimal**: A script that converts a base 10 value in DECIMAL to lowercase base 16 hexadecimal.
 * **15-rot13**: A script that encodes and decodes text using rot13 encryption.
 * **16-odd**: A script that prints every other line from the input, starting with the first line.
+* **17-water_and_stir**: A script that adds WATER and STIR numbers from custom bases and prints the result in base bestchol.
