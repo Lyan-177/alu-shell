@@ -30,3 +30,4 @@ This repository contains scripts practicing I/O redirections, pipelines, and fil
 * **22-users_and_homes**: A script that displays all users and their home directories from /etc/passwd, sorted by users.
 * **23-empty_casks**: A script that finds all empty files and directories in the working directory tree structure.
 * **24-gifs**: A script that lists all regular .gif files recursively without extensions, sorted case-insensitively.
+* **25-acrostic**: A script that decodes an acrostic by extracting the first letter of each line.
