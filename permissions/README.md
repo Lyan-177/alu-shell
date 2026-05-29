@@ -37,3 +37,4 @@ README
 
 * **6-multiple_permissions**: A script that adds execute permission to the owner and group owner, and read permission to other users, to the file hello.
 * **7-everybody**: A script that adds execution permission to the owner, the group owner and the other users, to the file hello.
+* **8-James_Bond**: A script that sets the permissions of hello to no permissions for owner/group, and full permissions for others.
