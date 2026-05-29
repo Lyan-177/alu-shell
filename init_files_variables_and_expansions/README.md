@@ -13,3 +13,4 @@ This repository contains scripts practicing shell initialization files, environm
 * **6-create_local_variable**: A script that creates a new local shell variable named BEST.
 * **7-create_global_variable**: A script that creates a new global environment variable named BEST.
 * **8-true_knowledge**: A script that adds 128 to the TRUEKNOWLEDGE variable and prints the result.
+* **9-divide_and_rule**: A script that divides the variable POWER by DIVIDE and prints the result.
