@@ -17,3 +17,4 @@ This repository contains scripts practicing shell initialization files, environm
 * **10-love_exponent_breath**: A script that computes BREATH raised to the power of LOVE.
 * **11-binary_to_decimal**: A script that converts a base 2 value in BINARY to base 10 decimal.
 * **12-combinations**: A script that prints all two-letter combinations from aa to zz except oo.
+* **13-print_float**: A script that prints the value stored in NUM with exactly two decimal places.
