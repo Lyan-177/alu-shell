@@ -12,3 +12,4 @@ This repository contains scripts practicing shell initialization files, environm
 * **5-local_variables**: A script that lists all local and environment variables, and functions.
 * **6-create_local_variable**: A script that creates a new local shell variable named BEST.
 * **7-create_global_variable**: A script that creates a new global environment variable named BEST.
+* **8-true_knowledge**: A script that adds 128 to the TRUEKNOWLEDGE variable and prints the result.
