@@ -31,3 +31,4 @@ This repository contains scripts practicing I/O redirections, pipelines, and fil
 * **23-empty_casks**: A script that finds all empty files and directories in the working directory tree structure.
 * **24-gifs**: A script that lists all regular .gif files recursively without extensions, sorted case-insensitively.
 * **25-acrostic**: A script that decodes an acrostic by extracting the first letter of each line.
+* **26-the_biggest_fan**: A script that parses TSV web logs and displays the top 11 host IPs making requests.
