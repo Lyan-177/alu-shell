@@ -11,3 +11,4 @@ This repository contains scripts practicing shell initialization files, environm
 * **4-global_variables**: A script that lists all global environment variables.
 * **5-local_variables**: A script that lists all local and environment variables, and functions.
 * **6-create_local_variable**: A script that creates a new local shell variable named BEST.
+* **7-create_global_variable**: A script that creates a new global environment variable named BEST.
