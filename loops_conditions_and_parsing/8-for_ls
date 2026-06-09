@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Displays files in list format without prefix before first dash
+
+for file in *
+do
+    if [ -f "$file" ]
+    then
+        echo "${file#*-}"
+    fi
+done
